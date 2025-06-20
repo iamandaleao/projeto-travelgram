@@ -16,7 +16,7 @@ Projeto Travelgram promovido pela Rocketseat para ensino de tecnologias WEB..
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="https://github.com/user-attachments/assets/8fd1c4b4-a5c6-4421-b4a6-3237a2284179" width="100%">
+  <img alt="Preview do projeto desenvolvido." src="https://github.com/user-attachments/assets/8fd1c4b4-a5c6-4421-b4a6-3237a2284179" width="60%">
 </p>
 
 ## 🚀 Tecnologias
